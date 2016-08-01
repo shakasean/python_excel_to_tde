@@ -3,17 +3,10 @@ python_excel_to_tde
 ===================
 
 
-Add a short description here!
+Create Tableau TDE file from Excel spreadsheet
 
 
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
-
-
-Note
-====
-
-This project has been set up using PyScaffold 2.5.6. For details and usage
-information on PyScaffold see http://pyscaffold.readthedocs.org/.
+Using Tableau's SDK API, convert an Excel spreadsheet into a Tableau data extract (.tde)
